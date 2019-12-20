@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+	
+}
+header{
+	background: url("../images/lol.jpg") no-repeat center center fixed;
+	height: 100%;
+	background-size:cover;
+	
+}
+ul{
+	float:right;
+	list-style-type:none;
+	
+}
+ul li{
+	display:inline-block;
+}
